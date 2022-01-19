@@ -1,4 +1,4 @@
-# Inter-process lock example using `python_dynamodb_lock` library
+## Inter-process lock example using `python_dynamodb_lock` library
 ### https://python-dynamodb-lock.readthedocs.io/en/latest/usage.html
 
 ## To run
